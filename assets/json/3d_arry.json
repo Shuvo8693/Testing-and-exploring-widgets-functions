@@ -1,0 +1,263 @@
+[
+  [
+    [
+      {
+        "department": "HR",
+        "team": "Recruitment",
+        "members": [
+          {
+            "id": 1,
+            "name": "Alice",
+            "role": "Manager",
+            "projects": [
+              {
+                "projectId": 101,
+                "name": "Onboarding",
+                "status": "Ongoing",
+                "deadline": "2024-12-31"
+              },
+              {
+                "projectId": 102,
+                "name": "Recruitment Drive",
+                "status": "Planned",
+                "deadline": "2024-09-15"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Bob",
+            "role": "Recruiter",
+            "projects": [
+              {
+                "projectId": 103,
+                "name": "Interview Scheduling",
+                "status": "Ongoing",
+                "deadline": "2024-11-30"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "department": "HR",
+        "team": "Employee Relations",
+        "members": [
+          {
+            "id": 3,
+            "name": "Charlie",
+            "role": "Specialist",
+            "projects": [
+              {
+                "projectId": 104,
+                "name": "Policy Update",
+                "status": "Completed",
+                "deadline": "2024-08-01"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "David",
+            "role": "Coordinator",
+            "projects": [
+              {
+                "projectId": 105,
+                "name": "Employee Feedback",
+                "status": "Ongoing",
+                "deadline": "2024-10-20"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "department": "Finance",
+        "team": "Accounting",
+        "members": [
+          {
+            "id": 5,
+            "name": "Eve",
+            "role": "Accountant",
+            "projects": [
+              {
+                "projectId": 106,
+                "name": "Annual Report",
+                "status": "Planned",
+                "deadline": "2024-12-01"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Frank",
+            "role": "Auditor",
+            "projects": [
+              {
+                "projectId": 107,
+                "name": "Internal Audit",
+                "status": "Ongoing",
+                "deadline": "2024-11-15"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "department": "Finance",
+        "team": "Budgeting",
+        "members": [
+          {
+            "id": 7,
+            "name": "Grace",
+            "role": "Budget Analyst",
+            "projects": [
+              {
+                "projectId": 108,
+                "name": "Q1 Budget",
+                "status": "Completed",
+                "deadline": "2024-03-31"
+              },
+              {
+                "projectId": 109,
+                "name": "Q2 Budget",
+                "status": "Ongoing",
+                "deadline": "2024-06-30"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "department": "IT",
+        "team": "Infrastructure",
+        "members": [
+          {
+            "id": 8,
+            "name": "Hank",
+            "role": "SysAdmin",
+            "projects": [
+              {
+                "projectId": 110,
+                "name": "Server Upgrade",
+                "status": "Ongoing",
+                "deadline": "2024-09-30"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Ivy",
+            "role": "Network Engineer",
+            "projects": [
+              {
+                "projectId": 111,
+                "name": "Network Security",
+                "status": "Ongoing",
+                "deadline": "2024-12-31"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "department": "IT",
+        "team": "Development",
+        "members": [
+          {
+            "id": 10,
+            "name": "Jack",
+            "role": "Developer",
+            "projects": [
+              {
+                "projectId": 112,
+                "name": "App Development",
+                "status": "Ongoing",
+                "deadline": "2025-03-31"
+              },
+              {
+                "projectId": 113,
+                "name": "Website Revamp",
+                "status": "Planned",
+                "deadline": "2024-10-15"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "department": "Marketing",
+        "team": "Digital",
+        "members": [
+          {
+            "id": 11,
+            "name": "Kate",
+            "role": "SEO Specialist",
+            "projects": [
+              {
+                "projectId": 114,
+                "name": "SEO Optimization",
+                "status": "Ongoing",
+                "deadline": "2024-12-01"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Leo",
+            "role": "Content Creator",
+            "projects": [
+              {
+                "projectId": 115,
+                "name": "Blog Series",
+                "status": "Planned",
+                "deadline": "2024-11-01"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "department": "Marketing",
+        "team": "Traditional",
+        "members": [
+          {
+            "id": 13,
+            "name": "Mona",
+            "role": "PR Specialist",
+            "projects": [
+              {
+                "projectId": 116,
+                "name": "Press Release",
+                "status": "Completed",
+                "deadline": "2024-07-15"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Ned",
+            "role": "Event Coordinator",
+            "projects": [
+              {
+                "projectId": 117,
+                "name": "Annual Conference",
+                "status": "Ongoing",
+                "deadline": "2024-09-01"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ]
+]
+

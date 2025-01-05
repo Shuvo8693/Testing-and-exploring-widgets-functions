@@ -1,0 +1,38 @@
+{
+  "department": "HR",
+  "team": "Recruitment",
+  "members": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "role": "Manager",
+      "projects": [
+        {
+          "projectId": 101,
+          "name": "Onboarding",
+          "status": "Ongoing",
+          "deadline": "2024-12-31"
+        },
+        {
+          "projectId": 102,
+          "name": "Recruitment Drive",
+          "status": "Planned",
+          "deadline": "2024-09-15"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "role": "Recruiter",
+      "projects": [
+        {
+          "projectId": 103,
+          "name": "Interview Scheduling",
+          "status": "Ongoing",
+          "deadline": "2024-11-30"
+        }
+      ]
+    }
+  ]
+}
