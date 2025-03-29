@@ -1,0 +1,2 @@
+/Users/quantumalliance/StudioProjects/Testing-and-exploring-widgets-functions/android/app/.cxx/Debug/5d6r0503/x86/CMakeFiles/edit_cache.dir
+/Users/quantumalliance/StudioProjects/Testing-and-exploring-widgets-functions/android/app/.cxx/Debug/5d6r0503/x86/CMakeFiles/rebuild_cache.dir
