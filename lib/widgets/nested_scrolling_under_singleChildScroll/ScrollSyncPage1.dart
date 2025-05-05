@@ -16,8 +16,7 @@ class ScrollSyncPage extends StatelessWidget {
               height: 200,
               color: Colors.blue,
               alignment: Alignment.center,
-              child: const Text(
-                'Header',
+              child: const Text('Header',
                 style: TextStyle(color: Colors.white, fontSize: 24),
               ),
             ),

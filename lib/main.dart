@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:testing_and_exploring_widgets/widgets/nested_scrolling_under_singleChildScroll/ScrollSyncPage1.dart';
 import 'package:testing_and_exploring_widgets/widgets/nested_scrolling_under_singleChildScroll/ScrollSyncPage2.dart';
 
+
 void main() {
   runApp(const MyApp());
 }
